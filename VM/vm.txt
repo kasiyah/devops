@@ -1,0 +1,13 @@
+ip addr show    #shows ip adrdess on ubuntu
+ssh username@ipaddr #ssh into vm
+
+Vagrant commands to be used inside directory where vagrantfile is
+vagrant init <box_name>
+vagrant up 
+vagrant status  vagrant global-status
+vagrant ssh
+vagrant halt
+vagrant reload
+vagrant destroy
+history
+vagrantbox list
